@@ -5,9 +5,13 @@
 
 This NPM module and GitHub repo contains the default token list used in the Uniswap interface.
 
+## n8n Workflow Example
+
+If you need an automation recipe for monitoring a specific asset ("Varlık"), check the [n8n workflow guide](docs/n8n-varlik-workflow.md) that demonstrates how to pull data from this token list and send alerts.
+
 ## Adding a token
 
-To request that we add a token to the list, 
+To request that we add a token to the list,
 [file an issue](https://github.com/Uniswap/default-token-list/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D).
 
 ### Disclaimer
